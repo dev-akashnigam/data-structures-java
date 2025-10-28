@@ -1,4 +1,4 @@
-package Array;
+package Array.CoreConcepts;
 
 class Declaration_Instantiation_Initialization
 {

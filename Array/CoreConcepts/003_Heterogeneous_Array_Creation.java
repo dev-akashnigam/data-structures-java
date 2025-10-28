@@ -1,4 +1,4 @@
-package Array;
+package Array.CoreConcepts;
 
 class Heterogeneous_Array_Creation {
     // creation of heteregeneous array is not supported in Java.
