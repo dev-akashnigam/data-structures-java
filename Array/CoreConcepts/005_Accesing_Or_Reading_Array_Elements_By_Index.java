@@ -1,6 +1,6 @@
 package Array.CoreConcepts;
 
-class Accesing_Array_Elements_By_Index {
+class Accesing_Or_Reading_Array_Elements_By_Index {
     public static void main(String[] args) {
         int[] arr = {10, 20, 30, 40, 50};
 
@@ -11,5 +11,5 @@ class Accesing_Array_Elements_By_Index {
         System.out.printf("First element of array = %d\n", firstElement);
         System.out.printf("Forth element of array = %d\n", forthElement);
         System.out.printf("Last element of array = %d\n", lastElement);
-    }    
+    }   
 }
