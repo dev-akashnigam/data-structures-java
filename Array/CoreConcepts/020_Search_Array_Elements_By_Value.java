@@ -2,7 +2,7 @@ package Array.CoreConcepts;
 
 import java.util.Arrays;
 
-class Searching_Array_Elements_By_Value {
+class Search_Array_Elements_By_Value {
     public static void main(String[] args) {
         int[] arr = {10, 20, 30, 40, 50, 10, 20, 30, 40, 50, 10, 20, 30, 40, 50};
 
