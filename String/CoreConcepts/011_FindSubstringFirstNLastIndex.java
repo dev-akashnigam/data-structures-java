@@ -1,6 +1,6 @@
 package String.CoreConcepts;
 
-class DetermineFirstNLastIndexOfSubstring {
+class FindSubstringFirstNLastIndex {
     public static void main(String[] args) {
         String str = "They laughed and laughed until they cried";
         System.out.printf("Original String = %s\n", str);
