@@ -2,9 +2,10 @@ package String.CoreConcepts;
 
 class DetermineIfStringStartsWithSubstring {
     public static void main(String[] args) {
-        String str = "This story is about a person called Akash Nigam.";
+        String str = "The curious fox wandered through the misty valley at dawn";
+        System.out.printf("Original String = %s\n", str);
 
-        String subs = "This";
+        String subs = "The";
 
         boolean checkStart = str.startsWith(subs);
 

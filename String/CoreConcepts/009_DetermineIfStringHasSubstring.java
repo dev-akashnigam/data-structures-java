@@ -2,10 +2,10 @@ package String.CoreConcepts;
 
 class DetermineIfStringHasSubstring {
     public static void main(String[] args) {
-        String str = "Hey boys, I am singing a song. Soup song. Flop song. Why this kolaveri kolaveri kolaveri d";
+        String str = "When the rain stopped, the city lights looked brighter than ever";
         System.out.printf("Original String = %s\n", str);
 
-        String subs = "Flop";
+        String subs = "brighter";
 
         boolean hasCheck = str.contains(subs);
 
