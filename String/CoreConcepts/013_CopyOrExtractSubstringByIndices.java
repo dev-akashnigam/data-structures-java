@@ -1,6 +1,6 @@
 package String.CoreConcepts;
 
-class CopySubstringByIndices {
+class CopyOrExtractSubstringByIndices {
     public static void main(String[] args) {
         String str = "He accidentally joined a yoga class thinking it was a sandwich shop";
         System.out.printf("Original String = %s\n", str);
